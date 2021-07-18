@@ -1,4 +1,4 @@
-# Wanted #
+# Chapter 2: Wanted #
 
 
 Where the Pantheran went and what the Pantheran did after leaving
@@ -102,4 +102,3 @@ apology for her route. Her goal was complete privacy.
 "Here we go," she said, finally opening a hatch on a spar ton meeting
 room. "I thought this might do for us."
 
-[Previous:Chapter1](chapter01.md) [Next:Chapter3](chapter03.md)i

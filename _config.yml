@@ -2,13 +2,13 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: The Adventures of Star Runner the Pantheran
-author: Rill Online
+author: Rill Woolnough
 #logo: logo.png
 
 # Turn off  re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
-execute:
-  execute_notebooks: off
+#execute:
+#  execute_notebooks: off
 
 # Define the name of the latex output file for PDF builds
 latex:
@@ -16,8 +16,8 @@ latex:
     targetname: book.tex
 
 # Add a bibtex file so that we can create citations
-bibtex_bibfiles:
-  - references.bib
+#bibtex_bibfiles:
+#  - references.bib
 
 # Information about where the book exists on the web
 repository:

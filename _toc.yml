@@ -4,6 +4,8 @@
 format: jb-book
 root: index
 chapters:
+- file: note-to-the-reader
 - file: chapter01
 - file: chapter02
 - file: chapter03
+- file: thoughts-on-the-first-adventure

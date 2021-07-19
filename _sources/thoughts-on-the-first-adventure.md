@@ -107,7 +107,7 @@ narration. I am not completely happy with this style.
    Allingham, for example, relies heavily on dialog.
 
 I have written a little intro I call
-[A Note to the Reader](note-to-the-reader.html) where I imagine a future
+[*A Note to the Reader*](note-to-the-reader) where I imagine a future
 civilization has come upon these stories and wonders if they really
 happened. 
 

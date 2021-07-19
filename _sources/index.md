@@ -1,7 +1,7 @@
 # The Adventures of Star Runner the Pantheran #
 
 This is the first of many adventures. Start readingCaptain Star Runner's first adventure here.
-cc
+
 The Clouder genetically modifies its workers for particular tasks.
 When workers are unsatisfactory for any reason, they are terminated.
 Captain Star Runner, a fuchsia-colored Pantheran, is one of these.

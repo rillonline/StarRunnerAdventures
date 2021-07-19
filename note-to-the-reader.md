@@ -1,6 +1,4 @@
-<a id="note-to-the-reader"></a>
-
-# A Note to the Reader #
+# <a name="note-to-the-reader"></a> A Note to the Reader #
 
 In recent times, *
 The Adventures of Star Runner the Pantheran* have become popular in

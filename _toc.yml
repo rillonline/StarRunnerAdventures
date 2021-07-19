@@ -1,17 +1,9 @@
-# Book settings
-# Learn more at https://jupyterbook.org/customize/config.html
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
 
-title: The Adventures of Star Runner the Pantheran
-author: Rill Online
-#logo: logo.png
-
-# Turn off  re-execution of notebooks on each build.
-# See https://jupyterbook.org/content/execute.html
-execute:
-  execute_notebooks: off
-
-# Define the name of the latex output file for PDF builds
-latex:
-  latex_documents:
-    targetname: book.tex
-
+format: jb-book
+root: index
+chapters:
+- file: chapter01
+- file: chapter02
+- file: chapter03

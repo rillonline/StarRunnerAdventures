@@ -116,3 +116,27 @@ travel  is very limited. This can be turned into an asset, making the
 lack of details a feature rather than a bug as they say. If these
 adventures cannot be located in space or time, they must stand on
 their own as tales rather than a serious exploration of future history.
+
+
+Writing [the note](#note-to-the-reader) was fun. So far the novel
+writing has not been as quirky and that is what Star Runner has going
+for them. I could do the [NanoWriMo](https://www.nanowrimo.org/) thing
+and just switch over at this point or even mix the two to see what
+happens. On the other hand, I could let Star be Star.
+
+Going back to Margery Allingham, that is what happened with Albert
+Campion. He was a quirky character described by a first person
+narrator. That narrator never showed up again which actually surprised
+me as he could have become a recurring minor character but that is not
+what Allingham did.
+
+I am reading Bramah now. His treatment of Max Corridos is uneven. Max
+can do things a blind person can't do when the plot demands it. No
+explanation is ever given. That's something to bear in mind. Testing
+the reader's credulity is dangerous but the suspension of disbelief
+often goes a long way when reading fiction. 
+
+I keep adding to the [*Note to the Reader*[(#note-to-the-read) to
+explain away inconsistencies. This adventure may end up in Star's
+voice with some intrusions by Gillian, but I want to keep my options
+open as the novel continues.

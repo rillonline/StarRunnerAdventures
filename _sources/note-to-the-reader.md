@@ -25,5 +25,13 @@ anonymity. "They are most likely fictional in character." Some have
 suggested a mythical background, but again the source discounts the
 possibility that these are origin stories of a lost civilization.
 
+For a long time historians and literary experts have come to various
+conclusions about the writing style. Third and first person narration
+is mixed together and no single author emerges as the prime narrator.
+Characters claim to know things they could not possibly have known at
+the time using the internal information available in the narratives
+themselves. It would seem a later compiler (and there may have been
+more than one) edited these documents for greater clarity.
+
 These stories have been collected here to preserve them so that future
 generations will be able to enjoy them whether or not they really happened.

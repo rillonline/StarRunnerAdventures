@@ -52,4 +52,28 @@ cat, but perhaps this expression applies here as well.
 
 **What to do?**
 
+Ride intervened to relax me. I drifted off to dreamless sleep. When I
+awoke, Ride presented me with alternatives:
 
+1. Go on as usual.
+2. Go farther away from Coalition space.
+3. Return to pirate's Cove and become a part of whatever Gillian and
+   the Consortium was planning.
+   
+   The first alternative seemed untenable. Sooner or later someone
+   would try to turn me over to The Clouder. My little ride had no
+   weapons. I had no way to defend myself and my kidnapper would very
+   likely not understand my relation to my AI. Either way, I would be
+   terminated.
+   
+   There was little information about space further removed from the
+   Coalition. The Pharoah Star System was independent, but as far as
+   we knew it was not hospitable to Pantherans. My business depended
+   on trade so I needed businesses trading with one another to
+   survive.
+   
+   This left returning to Pirate's Cove, but Ride and I decided we
+   needed to gather more information and we needed to be clear on what
+   I was and was not willing to do.
+   
+   We set about finding out what my next steps should be.

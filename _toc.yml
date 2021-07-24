@@ -5,8 +5,9 @@ format: jb-book
 root: index
 chapters:
 - file: note-to-the-reader
-- file: chapter01
-- file: chapter02
-- file: chapter03
+- file: b01chapter01
+- file: b01chapter02
+- file: b01chapter03
+- file: b01chapter04
 - file: thoughts-on-the-first-adventure
 - file: glossary

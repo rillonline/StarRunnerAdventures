@@ -160,6 +160,36 @@ next. Fortunately, Jupyter Book allows `HTML` so I just wrote a
 definition list for my glossary. In the end, it's easier and clearer
 with the `HTML` tags.
 
+One of the fun things about going back to this first adventure is that
+  I can preview later events. For example, I can introduce Emily
+  Dickinson who doesn't appear until Star gets to the Pharaoh
+  Star
+  System. In fact, I can introduce that system and the League of
+  Hypatian Pirates. It will look oh so intentional where it wasn't
+  like that at all.
+  
+  I am totally reworking The Team that will purloin  
+  the spaceship. I
+  have worked out since the first adventure that the Fungusians stay
+  put and work offstage for the most part. They are not known to the
+  humans until Star, albeit hesitantly, brings them up. It has
+  occurred to me that the Fungusians may not want to be known and The
+  Clouder and the Featherote Charm may not be pleased.
+  
+  I have not written much about the Charm. I think of them as very
+  much uner the thumb of The Clouder.
+  
+  Finally, this book has a title. It both astonishes and humbles me
+  that I never thought of it before. Of course it is **Captain Star
+  Runner**. 
+  
+  David Rozenfeld has made great use of third person narrative in his
+  Andy Carpenter series. It is proving helpful to share scenes that
+  make the narrative intelligible and will still let Star tell their
+  story.
+  
+  Ronnie and Star share narration in *Behind Enemy Lines*
+	
   [*A Note to the Reader*]: note-to-the-reader
   [the note]: #note-to-the-reader
   [NanoWriMo]: https://www.nanowrimo.org/

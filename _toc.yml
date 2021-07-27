@@ -3,11 +3,21 @@
 
 format: jb-book
 root: index
-chapters:
-- file: note-to-the-reader
-- file: b01chapter01
-- file: b01chapter02
-- file: b01chapter03
-- file: b01chapter04
-- file: thoughts-on-the-first-adventure
-- file: glossary
+parts:
+  - caption: The Adventures of Star Runner the Pantheran
+    chapters:
+      - file: note-to-the-reader
+  - caption: Captain Star Runner
+    numbered: True
+    chapters:
+    
+      - file: b01file01
+      - file: b01file02
+      - file: b01file03
+      - file: b01file04
+  - caption: Appendices
+    chapters:
+      - file: thoughts-on-the-first-adventure
+      - file: glossary
+
+

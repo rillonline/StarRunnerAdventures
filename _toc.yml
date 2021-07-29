@@ -7,10 +7,10 @@ parts:
   - caption: The Adventures of Star Runner the Pantheran
     chapters:
       - file: note-to-the-reader
+      - file: captain-star-runner    
   - caption: Captain Star Runner
     numbered: True
     chapters:
-    
       - file: b01file01
       - file: b01file02
       - file: b01file03

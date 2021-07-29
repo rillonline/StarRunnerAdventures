@@ -1,6 +1,4 @@
-<b01chapter4>=
-
-# Chapter 4: Rethinking the Proposal #
+# Rethinking the Proposal #
 
 
 "Well, that didn't go very well," Prudence Wu, the station manager,
@@ -80,4 +78,40 @@ with the introduction of Eberhardt Dietrich to the conversation.
 Holloway may have sent the message, but Gilian received the response a
 few days later. It said,
 
-The cats are controlled with their AIs. 
+> Figured this was your question, Gillie, with your fancy pants
+> Consortium thinking it can go up against the cats. Good luck with
+> that. And yes, we know about that here in Ptolemy City. The Pirates
+> don't miss much. The runners are controlled through their AIs so no
+> wonder your pussy cat doesn't want to go anywhere near a military
+> AI. It just might turn it in. Cheers.
+
+
+"Well, that blows up that idea," Bing said to Gillian after reading
+Emily Dickinson's message.
+
+"If we knew how to disable that part of the AI," Gillian said, "it
+still could work, but I don't know who could do that."
+
+"Nor do I," Bing admitted. "I know the Featherote Charm builds their
+ships, but I don't think they are responsible for their AIs."
+
+"I'm thinking Captain Star Runner themself might know and may even
+know how the AI could be disabled. I wouldn't think they would know
+how to do it themself."
+
+"But where are they now?"
+
+"They haven't shown up anywhere else on the Frontier," Gillian said.
+"I have the word out even on the Sacred Worlds, Queen's Landing and
+the Republic of Space. No one's seen them. I'm guessing they're in
+hyperspace and could get here rather quickly if we asked. It's worth a
+try."
+
+"And how would you get them to show?" Prudence asked.
+
+"By being very up front with them," Gillian said.
+
+"Should we get Klegg in on this?" Bing asked.
+
+Hercules Klegg, probably not his real name, was the head of the
+business consortium backing the Alliance. 

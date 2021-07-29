@@ -1,4 +1,4 @@
-# Chapter 1: Meeting on Dirty World Station #
+# Meeting on Dirty World Station #
 
 It took Gillian Romeres Lujo a few moments to locate the Pantheran. They
 were sitting alone at a table against the wall of the Spacers Lounge on

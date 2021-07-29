@@ -1,5 +1,5 @@
 <captain-star-runner>=
-# Introducing Book 1: Captain Star Runner #
+# Captain Star Runner #
 
 This is the first book in the series. Originally begun in 2007, it was
 completed in 2021. Despite not being finished, it has served as the

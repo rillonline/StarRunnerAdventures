@@ -1,4 +1,4 @@
-# Chapter 3: quandary #
+# quandary #
 
 I entered Mother Space as quickly as I could. Without using a jump
 gate as an entry point to hyperspace, the humans would not be able to

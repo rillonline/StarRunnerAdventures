@@ -15,6 +15,14 @@ parts:
       - file: b01file02
       - file: b01file03
       - file: b01file04
+  - caption: Kearsarge A Ronnie Camberwell Mystery
+    chapters:
+      - file: r00kearsarge-list
+      - file: r01kearsarge
+      - file: r02kearsarge
+      - file: r03kearsarge
+      - file: r04kearsarge
+      - file: r05kearsarge
   - caption: Appendices
     chapters:
       - file: thoughts-on-the-first-adventure

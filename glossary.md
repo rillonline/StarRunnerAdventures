@@ -3,8 +3,16 @@
 
 ```{glossary}
 
+Aesculapius Medical
+Center
+	The foremost medical facility for human treatment. It is located
+  on Cleopatra, Hypatia's smaller moon.
+
 Alliance of Worlds and Peoples.
   Formerly known as FRONT. AWP has a formal structure of governence.
+
+Clouder
+	The Pantherans own name for themselves.
 
 Coalition
   A formal confederacy of a number of species including The Clouder,

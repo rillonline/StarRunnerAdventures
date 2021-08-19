@@ -14,7 +14,7 @@ Captain Star Runner
 Emily Dickinson
 	former stand-up comic, assassin, friend of the Czarina
 
-Josh
+Josh Hardy
 	school friend of Ronnie and cyber expert
 
 S. C. Mudd

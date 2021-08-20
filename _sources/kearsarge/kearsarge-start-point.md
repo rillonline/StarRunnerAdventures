@@ -1661,6 +1661,8 @@ then regretted it.
 
 investigator Ronnie Camberwell's Case Notes for ## Chapter 12
 
+# head #
+
 Kearsarge is dead.
 
 her body was found in the intersection of Fifth and elm in the River
@@ -2286,6 +2288,8 @@ out at some of the pirate bars tonight and see who will talk."
 "In this district," I said. "I'd try Long John Silver's or the Treasure
 Chest. They're safe enough and hey have enough people in them to get a
 story going."
+
+*** copied to here.
 
 We climbed aboard an elephant with several other passengers. Redman gave
 his hotel address. He was staying at the Palace Hotel. I gave my flat's

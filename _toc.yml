@@ -31,6 +31,10 @@ parts:
       - file: r11kearsarge
       - file: r12kearsarge
       - file: r13kearsarge
+      - file: r14kearsarge
+      - file: r15kearsarge
+      - file: r16kearsarge
+      - file: r17kearsarge
   - caption: Appendices
     chapters:
       - file: thoughts-on-the-first-adventure

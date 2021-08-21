@@ -1,5 +1,5 @@
 
-# In Which I Receive A Contract
+# I Receive A Contract
 
 This did not mean, of course, that I was done with Kearsarge. A
 contract arrived in my queue before I stepped onto the Lake View Loop

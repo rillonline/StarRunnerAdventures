@@ -1,5 +1,5 @@
 
-# In Which  I Meet Kearsarge
+# I Meet Kearsarge
 
 People are lining up outside the Galactic Diner, waiting for a table
 inside. I am shocked. I have never seen the restaurant so busy. The

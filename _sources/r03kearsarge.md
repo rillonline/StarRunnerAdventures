@@ -1,5 +1,5 @@
 
-# In Which I Read Reports
+# I Read Reports
 }}
 The co-op provides meals. I can go downstairs to the
 well-appointed dining room or the Cafe on the Patio or I can order meals

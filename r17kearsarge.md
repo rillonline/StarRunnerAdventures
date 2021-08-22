@@ -74,7 +74,7 @@ like this in a very long time. I'm quite out of practice, sad to say."
 I looked around the barroom. Animal Andy directed the remaining patrons
 to mop, sweep up glass, right the tables and chairs. When everything was
 basically back to normal, he'd provide a round and the good times would
-roll again. I did not see either Posthumous Patty or Dagger Dan. Too
+roll again. I did not see either Posthumous Patty or Deniable Dan. Too
 bad. I wanted to talk with them and this was the only place I knew they
 frequented. Finding out where they flopped would be nigh impossible.
 Pirates kept their residences, even if it was only a bed in a dormitory,
@@ -99,7 +99,7 @@ was there. I think I'd be a goner if he hadn't grabbed me."
 playground for the Rich and Famous. Anything can happen and probably
 will, sooner or later. Did you get anything helpful?"
 
-"Dagger Dan told me he was not at liberty to comment on any question I
+"Deniable Dan told me he was not at liberty to comment on any question I
 might want to put to him. That's a direct quote."
 
 "And Posthumous Patty?"

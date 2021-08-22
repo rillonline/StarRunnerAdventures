@@ -164,7 +164,7 @@ Dayton."
 "OK." Arthur responded promptly. "Done."
 
 "These two," Dad said, "are well-known criminals. They'rePosthumous
-Patty Parine and Dagger Dan Duncan."
+Patty Parine and Deniable Dan Duncan."
 
 "Now I remember," I said. "What are they doing with access to this
 house?"
@@ -279,7 +279,7 @@ risk I would have to take given the current situation of this case.
 I felt drained.
 
 "I've been thinking," Dad said when everything had been quiet for a few
-minutes. "If Posthumous Patty and Dagger Dan are involved, there could
+minutes. "If Posthumous Patty and Deniable Dan are involved, there could
 be some real danger. To my way of thinking, they're the ones who could
 have killed Kearsarge.
 

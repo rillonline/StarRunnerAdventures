@@ -57,7 +57,7 @@ Mudd gets blasted. It will look like a lover's quarrel."
 "Could be the same off-worlder paying but not being particular about the
 conventions here regarding contracts. Just hire some muscle."
 
-"Perhaps Posthumous Patty andDeniable Dan."
+"Perhaps Posthumous Patty andDagger Dan."
 
 "Except no conventional weapons were used. Posthumous Patty likes to cut. No, I don't
 think they killed Kearsarge."
@@ -291,7 +291,7 @@ rough."
 "Did she?"
 
 "Not really. They're smarter than that. They know a fraud when they see
-one. But I think Posthumous Patty and Deniable Dan were playing some sort
+one. But I think Posthumous Patty and Dagger Dan were playing some sort
 of a long con on her, but I can't tell you how it worked or if it
 worked."
 

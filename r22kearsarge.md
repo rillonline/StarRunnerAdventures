@@ -1,4 +1,4 @@
-# Station Security Harris #
+# Station Security Chief Harris #
 
 "I got the feeling," I told Josh, Charlie Dayton didn't want to know
 anything. He just wanted to do his job and get paid. I think our

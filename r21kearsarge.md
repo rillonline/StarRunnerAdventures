@@ -14,7 +14,7 @@ Same old Josh.
 Josh shook his head. "I've been running everything I can think of," he
 said, "but I can't crack anything."
 
-"What about Posthumous Patty and Deniable Dan?" I asked. "Can you get into
+"What about Posthumous Patty and Dagger Dan?" I asked. "Can you get into
 their conversations?"
 
 "There isn't much there," Josh said. "Things like, meet you there, and

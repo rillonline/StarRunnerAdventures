@@ -137,7 +137,7 @@ of Hypatian Pirates as a cache for their treasure--stolen goods
 mostly from star ships--Ptolemy City now is home to the rich and
 famous and those who want to be rich and famous. Business can be done
 efficiently--or at least that is the claim. Laws do not get in the
-way. As a former police detective, I look on these  assertions with a
+way. As a former police detective, I look on these assertions with a
 jaundiced eye. Ptolemy City is a lawless town. The only laws which are
 enforced with any regularity are those which protect the service
 workers from being exploited.

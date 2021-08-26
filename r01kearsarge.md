@@ -6,7 +6,8 @@ inside. I am shocked. I have never seen the restaurant so busy. The
 people are dressed in sporting clothes--I mean they look like cyclists,
 runners, equestrians, space travelers from a bygone era. What is this?
 
-Then I remember. The League of the Solar Planets Olympics is about to begin in Ptolemy City. Fans always dress as participants for their
+Then I remember. The League of the Solar Planets Olympics is about to
+begin in Ptolemy City. Fans always dress as participants for their
 favorite events.
 
 "Well," I thought. "I will never get a seat inside. Besides, the Galactic
@@ -144,7 +145,7 @@ legal here. It requires a contractual agreement, notice and an
 assassin. Murder, on the other hand, is another matter. In some
 circumstances, it can be prosecuted.
 
-"Yes," Kearsarge said. "I had him assassinated."g
+"Yes," Kearsarge said. "I had him assassinated."
 
 "You had proof then."
 
@@ -184,7 +185,7 @@ everything she had told me. The messages were probably real, too. I
 did not think Kearsarge was experiencing any remorse for her husband's
 death.
 
-"I can pay you," Kearsarge said. She must haveç¸ºï½¤  interpreted my
+"I can pay you," Kearsarge said. She must have interpreted my
 silence as refusal.
 
 "Payment isn't the point," I said. "Your safety is. You need to go to
@@ -213,7 +214,7 @@ obdurate.
 
 "I disagree," I said, getting to my feet. "Thank you for breakfast."
 
-I walked out of the restaurant  without  a backward glance. I strode away,
+I walked out of the restaurant without a backward glance. I strode away,
 determined not to be called back. I couldn't help someone who didn't
 want to be helped. 
 

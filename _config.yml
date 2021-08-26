@@ -31,4 +31,18 @@ html:
  # use_issues_button: true
   use_repository_button: true
 html:
-  use_multitoc_numbering: falsecp
+  use_multitoc_numbering: false
+
+myst_enable_extensions:
+  - amsmath
+  - colon_fence
+  - deflist
+  - dollarmath
+  - html_admonition
+  - html_image
+  - linkify
+  - replacements
+  - smartquotes
+  - substitution
+  - tasklist
+

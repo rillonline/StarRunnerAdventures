@@ -17,37 +17,47 @@ parts:
       - file: b01file04
   - caption: Kearsarge A Ronnie Camberwell Mystery
     chapters:
-      - file: r01kearsarge
-      - file: r02kearsarge
-      - file: r03kearsarge
-      - file: r04kearsarge
-      - file: r05kearsarge
-      - file: r06kearsarge
-      - file: r07kearsarge
-      - file: r08kearsarge
-      - file: r09kearsarge
-      - file: r10kearsarge
-      - file: r11kearsarge
-      - file: r12kearsarge
-      - file: r13kearsarge
-      - file: r14kearsarge
-      - file: r15kearsarge
-      - file: r16kearsarge
-      - file: r17kearsarge
-      - file: r18kearsarge
-      - file: r19kearsarge
-      - file: r20kearsarge
-      - file: r21kearsarge
-      - file: r22kearsarge
-      - file: r23kearsarge
-      - file: r24kearsarge
-      - file: r25kearsarge
-      - file: r26kearsarge
-      - file: r27kearsarge
-      - file: r28kearsarge
-      - file: r29kearsarge
-      - file: r30kearsarge
-      - file: r31kearsarge
+      - file: kearsarge/r01kearsarge
+      - file: kearsarge/r02kearsarge
+      - file: kearsarge/r03kearsarge
+      - file: kearsarge/r04kearsarge
+      - file: kearsarge/r05kearsarge
+      - file: kearsarge/r06kearsarge
+      - file: kearsarge/r07kearsarge
+      - file: kearsarge/r08kearsarge
+      - file: kearsarge/r09kearsarge
+      - file: kearsarge/r10kearsarge
+      - file: kearsarge/r11kearsarge
+      - file: kearsarge/r12kearsarge
+      - file: kearsarge/r13kearsarge
+      - file: kearsarge/r14kearsarge
+      - file: kearsarge/r15kearsarge
+      - file: kearsarge/r16kearsarge
+      - file: kearsarge/r17kearsarge
+      - file: kearsarge/r18kearsarge
+      - file: kearsarge/r19kearsarge
+      - file: kearsarge/r20kearsarge
+      - file: kearsarge/r21kearsarge
+      - file: kearsarge/r22kearsarge
+      - file: kearsarge/r23kearsarge
+      - file: kearsarge/r24kearsarge
+      - file: kearsarge/r25kearsarge
+      - file: kearsarge/r26kearsarge
+      - file: kearsarge/r27kearsarge
+      - file: kearsarge/r28kearsarge
+      - file: kearsarge/r29kearsarge
+      - file: kearsarge/r30kearsarge
+      - file: kearsarge/r31kearsarge
+  - caption: The Big Dig
+    chapters:
+    - file: the-big-dig/t01
+    - file: the-big-dig/t02
+  - caption: Marathon
+    chapters:
+    - file: marathon/c01
+      sections:
+      - file: marathon/m01
+      - file: marathon/m02
   - caption: Appendices
     chapters:
       - file: thoughts-on-the-first-adventure

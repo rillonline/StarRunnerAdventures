@@ -52,6 +52,8 @@ parts:
     chapters:
     - file: the-big-dig/t01
     - file: the-big-dig/t02
+    - file: the-big-dig/t03
+    - file: the-big-dig/t04
   - caption: Marathon
     chapters:
     - file: marathon/c01
